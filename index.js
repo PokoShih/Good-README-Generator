@@ -99,7 +99,7 @@ promptUser()
     .then(function (answer) {
         const md = generateReadMe(answer);
 
-        return writeFileAsync("generator.md", md);
+        return writeFileAsync("README.md", md);
     }).then(function () {
         console.log("Success");
     }).catch(function (error) {
