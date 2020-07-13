@@ -8,10 +8,10 @@
 * This is a README Generator for this specific assignment
 
 ## Installation
-* Please commence with "npm i" for installation
+* Please commence with npm i for installation
 
 ## Usage
-* Please enter"node index.js" in the command line for commence the usage of this command line application
+* Please enter "node index.js" in the command line to commence the usage of this command line application
 
 ## Contributing
 * N/A
