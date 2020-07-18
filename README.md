@@ -1,6 +1,9 @@
 
 # Good README Generator
 
+# Video of Readme Generation
+[![Watch the video](https://i.imgur.com/8893VA9.png)](https://youtu.be/cJb8c8z1tao)
+
 ## Table of Contents
 * [Description](#description),[Installation](#installation),[Usage](#usage),[Contributing](#contributing),[Test](#test),[Questions](#question)
 
